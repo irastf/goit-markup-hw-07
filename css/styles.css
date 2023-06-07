@@ -247,7 +247,7 @@ img {
 .feautures-icon {
   justify-content: center;
 }
-.feautures-tittle {
+.feautures-title {
   margin-bottom: 8px;
 
   font-weight: 500;
@@ -266,9 +266,9 @@ img {
   padding-bottom: 120px;
 }
 
-.activity-tittle,
-.team-tittle,
-.customers-tittle {
+.activity-title,
+.team-title,
+.customers-title {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -340,7 +340,7 @@ img {
   fill: var(--text-color-theme-dark);
 }
 /* Customers */
-.customers-tittle {
+.customers-title {
   line-height: 1.1;
 }
 .customers-list {
@@ -449,7 +449,7 @@ img {
 .soc-media-icon {
   fill: var(--text-color-theme-dark);
 }
-.subscribe-tiitle {
+.subscribe-title {
   margin-bottom: 16px;
 
   font-weight: 500;
