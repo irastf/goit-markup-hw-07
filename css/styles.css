@@ -355,7 +355,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/mobile/hero-bg.jpg);
+    url(../images/mobile/dark-bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -369,7 +369,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('../images/mobile/hero@2x.jpg');
+      url('../images/mobile/dark-bg@2x.png');
   }
 }
 .btn-order {
@@ -618,7 +618,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/tablet/hero-bg.jpg);
+      url(../images/tablet-bg.png);
   }
   .hero-title {
     max-width: 496px;
@@ -652,7 +652,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/hero/people-office.jpg);
+      url(../images/bg.jpg);
   }
   .hero-container {
     padding: 188px 0;
@@ -677,7 +677,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('../images/hero/people@2x.jpg');
+      url('../images/bg@2x.jpg');
   }
 }
 
