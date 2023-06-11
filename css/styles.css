@@ -355,7 +355,7 @@ img {
       rgba(46, 47, 66, 0.7),
       rgba(46, 47, 66, 0.7)
     ),
-    url(../images/mobile/dark-bg.png);
+    url(../images/mobile/bg.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -369,7 +369,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('../images/mobile/dark-bg@2x.png');
+      url('../images/mobile/bg@2x.png');
   }
 }
 .btn-order {
@@ -641,7 +641,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('../images/tablet/hero@2x.jpg');
+      url('../images/tablet/bg@2x.jpg');
   }
 }
 
