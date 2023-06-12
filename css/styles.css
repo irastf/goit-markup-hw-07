@@ -619,7 +619,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url(../images/tablet-bg.png);
+      url(../images/tablet/bg.jpg);
   }
   .hero-title {
     max-width: 496px;
@@ -642,7 +642,7 @@ img {
         rgba(46, 47, 66, 0.7),
         rgba(46, 47, 66, 0.7)
       ),
-      url('../images/tablet/bg@2x.png');
+      url('../images/tablet/bg@2x.jpg');
   }
 }
 
